@@ -1,0 +1,8 @@
+{
+  "name": "MQ135",
+  "author": "Georg Krocker",
+  "license": "GNU GPLv3",
+  "version": "1.0.0",
+  "description": "Arduino library for the MQ135",
+  "namespace": "Georg Krocker"
+}
